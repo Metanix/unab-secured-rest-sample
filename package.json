@@ -1,7 +1,7 @@
 {
-  "name": "unab-first-rest-sample",
+  "name": "unab-secured-rest-sample",
   "version": "0.1.0",
-  "description": "UNAB first REST sample",
+  "description": "UNAB Secured REST sample",
   "author": "@mreyescano",
   "main": "index.js",
   "scripts": {
